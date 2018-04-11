@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###Overview
 
 In this section of the Guessing Game Project, you will be using Test Driven development to build out the functions that you'll need for the functionality of your Guessing Game.
@@ -36,3 +37,17 @@ xdescribe('this won\'t run', function() {...});
 ```
 
 In Foundations Part 4, you'll get Guessing Game Part 3. Part 3 will link these functions to your existing HTML and CSS files using jQuery!
+=======
+# GuessingGame
+Fullstack foundation's first project. Guess a number between 1 and 100. You have 5 chances.
+
+#Getting Started
+1. Fork this repo.
+2. Clone the fork in terminal `git clone <PATH TO YOUR FORK OF THIS REPO>`
+3. Open the HTML file
+
+#Version 0.1
+- Added HTML
+- Used Bootstrap
+- Added CSS styling
+>>>>>>> 5ad4622dc64abf7c8cf214f0de2921287c454080
